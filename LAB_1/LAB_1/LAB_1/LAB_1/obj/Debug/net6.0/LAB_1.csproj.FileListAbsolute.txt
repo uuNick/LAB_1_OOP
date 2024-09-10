@@ -1,0 +1,14 @@
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1\LAB_1\LAB_1\bin\Debug\net6.0\LAB_1.exe
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1\LAB_1\LAB_1\bin\Debug\net6.0\LAB_1.deps.json
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1\LAB_1\LAB_1\bin\Debug\net6.0\LAB_1.runtimeconfig.json
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1\LAB_1\LAB_1\bin\Debug\net6.0\LAB_1.dll
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1\LAB_1\LAB_1\bin\Debug\net6.0\LAB_1.pdb
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1\LAB_1\LAB_1\obj\Debug\net6.0\LAB_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1\LAB_1\LAB_1\obj\Debug\net6.0\LAB_1.AssemblyInfoInputs.cache
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1\LAB_1\LAB_1\obj\Debug\net6.0\LAB_1.AssemblyInfo.cs
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1\LAB_1\LAB_1\obj\Debug\net6.0\LAB_1.csproj.CoreCompileInputs.cache
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1\LAB_1\LAB_1\obj\Debug\net6.0\LAB_1.dll
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1\LAB_1\LAB_1\obj\Debug\net6.0\refint\LAB_1.dll
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1\LAB_1\LAB_1\obj\Debug\net6.0\LAB_1.pdb
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1\LAB_1\LAB_1\obj\Debug\net6.0\LAB_1.genruntimeconfig.cache
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1\LAB_1\LAB_1\obj\Debug\net6.0\ref\LAB_1.dll

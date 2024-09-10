@@ -1,0 +1,14 @@
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1_2\LAB_1_2\LAB_1_2\bin\Debug\net6.0\LAB_1_2.exe
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1_2\LAB_1_2\LAB_1_2\bin\Debug\net6.0\LAB_1_2.deps.json
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1_2\LAB_1_2\LAB_1_2\bin\Debug\net6.0\LAB_1_2.runtimeconfig.json
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1_2\LAB_1_2\LAB_1_2\bin\Debug\net6.0\LAB_1_2.dll
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1_2\LAB_1_2\LAB_1_2\bin\Debug\net6.0\LAB_1_2.pdb
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1_2\LAB_1_2\LAB_1_2\obj\Debug\net6.0\LAB_1_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1_2\LAB_1_2\LAB_1_2\obj\Debug\net6.0\LAB_1_2.AssemblyInfoInputs.cache
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1_2\LAB_1_2\LAB_1_2\obj\Debug\net6.0\LAB_1_2.AssemblyInfo.cs
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1_2\LAB_1_2\LAB_1_2\obj\Debug\net6.0\LAB_1_2.csproj.CoreCompileInputs.cache
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1_2\LAB_1_2\LAB_1_2\obj\Debug\net6.0\LAB_1_2.dll
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1_2\LAB_1_2\LAB_1_2\obj\Debug\net6.0\refint\LAB_1_2.dll
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1_2\LAB_1_2\LAB_1_2\obj\Debug\net6.0\LAB_1_2.pdb
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1_2\LAB_1_2\LAB_1_2\obj\Debug\net6.0\LAB_1_2.genruntimeconfig.cache
+D:\University\OOP\2 part\LAB_11\LAB_11\LAB_1_2\LAB_1_2\LAB_1_2\obj\Debug\net6.0\ref\LAB_1_2.dll
